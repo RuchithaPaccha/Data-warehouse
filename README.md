@@ -67,9 +67,12 @@ Charts are stored in `/visualizations/`:
     ![image](https://github.com/user-attachments/assets/bde802e4-c6e1-4077-a63d-e567a3988e13)
 3. **Scatter Plot**: Customer purchasing behavior
     ![image](https://github.com/user-attachments/assets/8eb642e5-05b6-40a6-889e-f983a62610d6)
-4. **Pie Chart**: Sales distribution by channel
+   
+5. **Pie Chart**: Sales distribution by channel
+
    ![image](https://github.com/user-attachments/assets/cd77ad3f-354e-4d6c-ab3e-4b416b42c98d)
-5. **Heatmap**: Correlation matrix of KPIs
+   
+7. **Heatmap**: Correlation matrix of KPIs
    ![image](https://github.com/user-attachments/assets/9efe88ff-d8a3-4814-b140-e8667da84212)
 
 
