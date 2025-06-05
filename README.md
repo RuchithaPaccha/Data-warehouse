@@ -20,13 +20,8 @@ insights, enhancing operational efficiency and profitability.
 
 ## 👨‍🎓 Course Info
 - **Course**: ISM 6208 – Data Warehousing
-- **Instructor**: Prof. Han Reichgelt
 - **Institution**: University of South Florida
-- **Team**: Group 10  
-  👤 Ruchitha Paccha (U70955896)  
-  👤 [Add other team members here]
-
----
+  
 
 ## 📘 Project Overview
 
@@ -67,10 +62,16 @@ Visual ER diagram available in `/visuals/ERD.png`.
 ### 📊 Data Visualizations
 Charts are stored in `/visualizations/`:
 1. **Line Chart**: Monthly revenue trends
+   ![image](https://github.com/user-attachments/assets/f96841af-abd8-43ad-8326-be4a44076204)
 2. **Bar Chart**: Product stock vs reorder levels
+    ![image](https://github.com/user-attachments/assets/bde802e4-c6e1-4077-a63d-e567a3988e13)
 3. **Scatter Plot**: Customer purchasing behavior
+    ![image](https://github.com/user-attachments/assets/8eb642e5-05b6-40a6-889e-f983a62610d6)
 4. **Pie Chart**: Sales distribution by channel
+   ![image](https://github.com/user-attachments/assets/cd77ad3f-354e-4d6c-ab3e-4b416b42c98d)
 5. **Heatmap**: Correlation matrix of KPIs
+   ![image](https://github.com/user-attachments/assets/9efe88ff-d8a3-4814-b140-e8667da84212)
+
 
   
 
